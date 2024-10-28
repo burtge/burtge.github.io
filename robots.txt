@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://burtge.github.io/QcK/sitemap.QcK
